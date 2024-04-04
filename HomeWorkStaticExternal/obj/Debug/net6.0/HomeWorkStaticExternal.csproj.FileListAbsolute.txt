@@ -1,0 +1,14 @@
+C:\Users\SENAN\source\repos\HomeWorkStaticExternal\HomeWorkStaticExternal\bin\Debug\net6.0\HomeWorkStaticExternal.exe
+C:\Users\SENAN\source\repos\HomeWorkStaticExternal\HomeWorkStaticExternal\bin\Debug\net6.0\HomeWorkStaticExternal.deps.json
+C:\Users\SENAN\source\repos\HomeWorkStaticExternal\HomeWorkStaticExternal\bin\Debug\net6.0\HomeWorkStaticExternal.runtimeconfig.json
+C:\Users\SENAN\source\repos\HomeWorkStaticExternal\HomeWorkStaticExternal\bin\Debug\net6.0\HomeWorkStaticExternal.dll
+C:\Users\SENAN\source\repos\HomeWorkStaticExternal\HomeWorkStaticExternal\bin\Debug\net6.0\HomeWorkStaticExternal.pdb
+C:\Users\SENAN\source\repos\HomeWorkStaticExternal\HomeWorkStaticExternal\obj\Debug\net6.0\HomeWorkStaticExternal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAN\source\repos\HomeWorkStaticExternal\HomeWorkStaticExternal\obj\Debug\net6.0\HomeWorkStaticExternal.AssemblyInfoInputs.cache
+C:\Users\SENAN\source\repos\HomeWorkStaticExternal\HomeWorkStaticExternal\obj\Debug\net6.0\HomeWorkStaticExternal.AssemblyInfo.cs
+C:\Users\SENAN\source\repos\HomeWorkStaticExternal\HomeWorkStaticExternal\obj\Debug\net6.0\HomeWorkStaticExternal.csproj.CoreCompileInputs.cache
+C:\Users\SENAN\source\repos\HomeWorkStaticExternal\HomeWorkStaticExternal\obj\Debug\net6.0\HomeWorkStaticExternal.dll
+C:\Users\SENAN\source\repos\HomeWorkStaticExternal\HomeWorkStaticExternal\obj\Debug\net6.0\refint\HomeWorkStaticExternal.dll
+C:\Users\SENAN\source\repos\HomeWorkStaticExternal\HomeWorkStaticExternal\obj\Debug\net6.0\HomeWorkStaticExternal.pdb
+C:\Users\SENAN\source\repos\HomeWorkStaticExternal\HomeWorkStaticExternal\obj\Debug\net6.0\HomeWorkStaticExternal.genruntimeconfig.cache
+C:\Users\SENAN\source\repos\HomeWorkStaticExternal\HomeWorkStaticExternal\obj\Debug\net6.0\ref\HomeWorkStaticExternal.dll
